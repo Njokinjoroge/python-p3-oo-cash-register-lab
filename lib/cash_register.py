@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 price_lookup = {
     "eggs": 1.99,
     "book": 5.0,
